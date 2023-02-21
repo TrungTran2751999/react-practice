@@ -1,0 +1,4 @@
+export const LOGINED = "LOGINED";
+export const LOGINED_SUCCESS = "LOGINED_SUCCESS";
+export const FETCH_DATA = "FETCH_DATA";
+export const FETCH_DATA_SUCCESS = "FETCH_DATA_SUCCESS";
